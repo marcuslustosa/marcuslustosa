@@ -20,12 +20,12 @@ Sou um **Desenvolvedor Full Stack** com foco em **criação de soluções web** 
 
 ### 🚀 **Principais Projetos**
 
-| Projeto | Descrição | Tecnologias | Link |
-|---------|-----------|-------------|------|
-| **Brasil Roaming** | **Plataforma de venda de chips internacionais** com design focado em UX/UI e performance | HTML, CSS, JS, API REST | [Ver repositório](https://github.com/marcuslustosa/brasil-roaming) |
-| **Evoque Technology** | **Página institucional** para empresa de tecnologia com layout moderno e responsivo | HTML, CSS, JS | [Ver repositório](https://github.com/marcuslustosa/evoque-technology) |
-| **Projeto Totem** | **Sistema interativo** para totens de atendimento ou exibição de serviços | JavaScript Puro | [Ver repositório](https://github.com/marcuslustosa/Projeto-Totem) |
-| **Magrovel Financial** | **Protótipo de controle financeiro pessoal** com foco na gestão de gastos | HTML, CSS, JS | [Ver repositório](https://github.com/marcuslustosa/magrovel-financial) |
+| Projeto                | Descrição                                                                                                                                                                                                                                         | Tecnologias                     | Link                                                                   |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ---------------------------------------------------------------------- |
+| **Brasil Roaming**     | **Plataforma de venda de chips internacionais**, com design focado em **UX/UI** e **performance**. O código foi desenvolvido por mim, com **integração de API REST** para sistemas de pagamento. O site está hospedado no servidor do cliente.    | HTML, CSS, JavaScript, API REST | [Ver repositório](https://github.com/marcuslustosa/brasil-roaming)     |
+| **Evoque Technology**  | **Página institucional responsiva** para uma empresa de tecnologia, com layout moderno e otimizado para uma navegação fluida. A hospedagem também está a cargo do cliente, enquanto o desenvolvimento do código ficou sob minha responsabilidade. | HTML, CSS, JavaScript           | [Ver repositório](https://github.com/marcuslustosa/evoque-technology)  |
+| **Projeto Totem**      | **Sistema interativo** para totens de atendimento ou exibição de serviços, com foco em **interatividade** e **experiência do usuário**. Utiliza **JavaScript puro** para manipulação de elementos e interações dinâmicas.                         | JavaScript Puro                 | [Ver repositório](https://github.com/marcuslustosa/Projeto-Totem)      |
+| **Magrovel Financial** | **Protótipo de controle financeiro pessoal** com foco na **gestão de gastos** e **organização financeira**. Desenvolvido para ajudar usuários a controlarem suas finanças pessoais de forma simples e prática.                                    | HTML, CSS, JavaScript           | [Ver repositório](https://github.com/marcuslustosa/magrovel-financial) |
 
 ---
 
